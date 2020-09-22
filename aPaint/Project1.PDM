@@ -1,0 +1,225 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Alfa Stock\Επιφάνεια εργασίας\New Folder
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+Spray.cur=C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Spray.cur
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\system32\msimg32.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMCT332.OCX=
+C:\WINDOWS\system32\RICHTX32.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\MSFLXGRD.OCX=
+C:\WINDOWS\system32\TABCTL32.OCX=
+C:\WINDOWS\system32\MSRDO20.DLL=
+
+[Package|Standard Setup Package 1|Files Added]
+3dwarro.cur=
+apaint.jpg=
+er1.cur=
+er2.cur=
+er3.cur=
+er4.cur=
+er5.cur=
+fillc.cur=
+pen_r.cur=
+pickboard.jpg=
+pickcol.cur=
+spray.cur=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\msimg32.dll=Yes
+C:\WINDOWS\system32\MSRDC20.OCX=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\MSMAPI32.OCX=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+C:\WINDOWS\system32\PICCLP32.OCX=Yes
+C:\WINDOWS\system32\SYSINFO.OCX=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Project1.exe=Yes
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\3dwarro.cur=Yes
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\aPaint.JPG=Yes
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er1.cur=Yes
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er2.cur=Yes
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er3.cur=Yes
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er4.cur=Yes
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er5.cur=Yes
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\FillC.cur=Yes
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\pen_r.cur=Yes
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\PickBoard.jpg=Yes
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\PickCol.cur=Yes
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Spray.cur=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Project1.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msimg32.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\3dwarro.cur=$(AppPath)
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\aPaint.JPG=$(AppPath)
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Er1.cur=$(AppPath)
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Er2.cur=$(AppPath)
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Er3.cur=$(AppPath)
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Er4.cur=$(AppPath)
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Er5.cur=$(AppPath)
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\FillC.cur=$(AppPath)
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\pen_r.cur=$(AppPath)
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\PickBoard.jpg=$(AppPath)
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\PickCol.cur=$(AppPath)
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Spray.cur=$(AppPath)
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Project1.exe=$(AppPath)
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\3dwarro.cur=$(AppPath)
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\aPaint.JPG=$(AppPath)
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er1.cur=$(AppPath)
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er2.cur=$(AppPath)
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er3.cur=$(AppPath)
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er4.cur=$(AppPath)
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er5.cur=$(AppPath)
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\FillC.cur=$(AppPath)
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\pen_r.cur=$(AppPath)
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\PickBoard.jpg=$(AppPath)
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\PickCol.cur=$(AppPath)
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Spray.cur=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Project1.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\3dwarro.cur=No
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\aPaint.JPG=No
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Er1.cur=No
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Er2.cur=No
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Er3.cur=No
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Er4.cur=No
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Er5.cur=No
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\FillC.cur=No
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\pen_r.cur=No
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\PickBoard.jpg=No
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\PickCol.cur=No
+C:\Documents and Settings\s\Επιφάνεια εργασίας\Mpaint\Spray.cur=No
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Project1.exe=No
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\3dwarro.cur=No
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\aPaint.JPG=No
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er1.cur=No
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er2.cur=No
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er3.cur=No
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er4.cur=No
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Er5.cur=No
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\FillC.cur=No
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\pen_r.cur=No
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\PickBoard.jpg=No
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\PickCol.cur=No
+C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint\Spray.cur=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=aPaint By SimoS
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=aPaint By SimoS
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|aPaint By SimoS]
+Icon1=Project1.exe
+Title1=aPaint By SimoS
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Documents and Settings\Alfa Stock\Επιφάνεια εργασίας\New Folder
+ProjectFolder=C:\Documents and Settings\Alfa Stock\Τα έγγραφά μου\VB\Mpaint
+ServerSideCab=
+File1=C:\Documents and Settings\Alfa Stock\Επιφάνεια εργασίας\New Folder\setup.exe
+File2=C:\Documents and Settings\Alfa Stock\Επιφάνεια εργασίας\New Folder\Setup.Lst
+File3=C:\Documents and Settings\Alfa Stock\Επιφάνεια εργασίας\New Folder\Project1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
